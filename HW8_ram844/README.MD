@@ -1,3 +1,3 @@
 # Read me
 
-<img src="NYC_GHG.png" width="500">
+<img src="NYC_GHG.png">
