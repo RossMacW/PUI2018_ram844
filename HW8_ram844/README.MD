@@ -1,3 +1,3 @@
 # Read me
 
-![alt text]("NYC_GHG.png")
+<img src="NYC_GHG.png" width="500">
