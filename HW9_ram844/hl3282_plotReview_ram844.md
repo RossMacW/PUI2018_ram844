@@ -13,5 +13,4 @@
 * I would recommend putting commas in the values on your Y axis to make them a little easier to read. 
 * I like the dashed marker lines.  They make the plot easier to read.
 * Finally, I would recommend moving the X axis title down slightly.  It seems to be crowding your column labels a bit.
-* I don't think it is necessary to state all of the trip duration bins in the plot's main title
-* Overall, I think this plot is already very clear.  I recommend these edits to improve it further 
+* I don't think it is necessary to state all of the trip duration bins in the plot's main title.
