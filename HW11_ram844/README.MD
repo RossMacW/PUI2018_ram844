@@ -1,3 +1,6 @@
+# Homework 11
+I worked alone on this homework.
+
 <img src="NYC_GHG.png">
 Since 2005, GHG emissions have decreased in NYC citywide
 by approximately 15% despite significant increases in
